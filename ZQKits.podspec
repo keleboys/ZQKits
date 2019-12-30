@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZQKits'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'UI组件库'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'Classes/**/*.{h,m}','Classes'
+  s.source_files = 'ZQKits/Classes/**/*.{h,m}','Classes'
   
   # s.resource_bundles = {
   #   'ZQKits' => ['ZQKits/Assets/*.png']
