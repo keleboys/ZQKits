@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = "Classes", "ZQKits/Classes/**/*.{h,m}"
+  s.source_files = 'Classes/**/*.{h,m}','Classes'
   
   # s.resource_bundles = {
   #   'ZQKits' => ['ZQKits/Assets/*.png']
